@@ -1,6 +1,6 @@
 #Application Programming interfaces (APIs)
 Out for a walk one day, a woman came across a construction site and saw three men working. She asked the first man, “What are you doing?” Annoyed by the question, the first man barked, “Can’t you see that I’m laying bricks?” Not satisfied with the answer, she asked the second man what he was doing. The second man answered, “I’m building a brick wall.” Then, turning his attention to the first man, he said, “Hey, you just passed the end of the wall. You need to take off that last brick.” Again not satisfied with the answer, she asked the third man what he was doing. And the man said to her while looking up in the sky, “I am building the biggest cathedral this world has ever known.” While he was standing there and looking up in the sky the other two men started arguing about the errant brick. The man turned to the first two men and said, “Hey guys, don’t worry about that brick. It’s an inside wall, it will get plastered over and no one will ever see that brick. Just move on to another layer.”
-So the moral of the story is if you want to know how things work, you will know how they are made/created. Because there is no way you will think of a good solution if you don’t know what criteria to use to solve that particular problem.
+So the moral of the story is if you want to know how things work, you will need to know how they are made. Because there is no way you will think of a good solution if you don’t know what criteria to use to solve that particular problem.
 
 #So what Are APIs?
 A simple explanation is, an API is an abstraction of a particular piece of software or hardware with code, like in terms of computer hardware the sockets API is an implementation of a networking card, they create an endpoint for communication between two machines without the need to write a communication tool between your network card and the script you are writing, making it easy for you to concentrate on just writing code that does the communication you wanted rather than having to write extra code to achieve that communication, so an API is nothing more than just a bunch of classes that have methods, properties and events that “do things for you”.
@@ -70,7 +70,7 @@ When all else fails; generally, a 500 response is used when processing fails due
 
 #Conclusion
 you now have a basic understanding of how APIs work and now you are ready to start building an api, in the next article we will build a simple api that communicates with our database and retrieves resources.
-See yuo in two weeks, until the Happy hacking.
+See you in two weeks, until then Happy hacking.
 
 
 
